@@ -1,0 +1,12 @@
+name: Issue
+about: Testing
+title: ''
+labels: ['enhancement']
+assignees: ''
+body:
+  - type: input
+    attributes:
+      label: Do you like testing?
+      description: 'yes or no'
+    validations:
+      required: true
